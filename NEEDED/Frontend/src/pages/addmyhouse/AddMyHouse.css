@@ -1,0 +1,11 @@
+.amh{
+    opacity: 0.9;
+    height: 70px;
+    color: white;
+    font-weight:lighter;
+    font-size: 38px;
+    margin-left: 39%;
+    margin-top: -62px;
+    margin-right: 100px;
+    text-shadow: 1px 2px 2px white, 1px 2px #45a024, 2px 3px 3px #45a024, 1px 5px 1px #6b3914, 2px 6px 2px #6b3914;  
+}
